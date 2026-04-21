@@ -1,0 +1,13 @@
+Wiki LLM for Multi-Agent Builds — extensions to Karpathy's llm-wiki.md pattern.
+
+Based conceptually on Andrej Karpathy's LLM Wiki pattern:
+  https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f
+
+Copyright (c) 2026. All Rights Reserved. See LICENSE for terms.
+
+This repository documents architectural extensions developed in production
+use of a multi-agent Claude Code fleet. The primary artifact is README.md,
+which doubles as the gist-form writeup.
+
+The integrity layer (Section 19 of the README) is the load-bearing contribution.
+If you are building or operating a multi-agent LLM system, start there.
