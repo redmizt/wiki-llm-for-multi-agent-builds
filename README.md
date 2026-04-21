@@ -11,6 +11,8 @@ Wiki LLM for Multi-Agent Builds — extensions to Karpathy's LLM Wiki pattern fo
 - **v1.0 (2026-04-12):** Original 13-extension writeup — multi-domain wiki, YYYYMMDDNN naming, capability tokens, content protection, conversation capture, insights domain, dispatch system, contamination firewalls, verify-before-assert, hook suite (8 wiki-security hooks), checkout/locking, rules wiki, twice rule, session ID correlation, context compilation CLI, semantic dedup, wiki lint, typed knowledge graph.
 - **v2.0 (2026-04-21):** Hook count corrected (8 wiki-security hooks → 194+ full fleet). Expanded integrity-layer coverage: 5-tag deception taxonomy, 4-layer enforcement architecture, and documented incident patterns from 33 catalogued lapses. Superseded `[UNVERIFIED]` advisory label with the `[APPLE]` deception-marker framework. 8 new subsystems deployed since v1.0.
 
+https://gist.github.com/redmizt/3250f4b8ae15a25428e7fb09aba72223
+
 ---
 
 ## Background
